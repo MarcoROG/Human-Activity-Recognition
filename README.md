@@ -2,7 +2,7 @@
 Machine learning algorithm for HAR
 
 ##WriteUp
-You can find the writeup of the code HERE
+You can find the writeup of the code [HERE](http://htmlpreview.github.io/?https://github.com/MarcoROG/Human-Activity-Recognition/blob/master/Report.html)
 
 ##Introduction
 
